@@ -1,0 +1,19 @@
+Technical Assessment: Deliverables
+
+1. Create table queries
+
+2. And any script or program which reads the data from flies
+
+Creating a database "customers_details".
+
+After creating database create separate tables for each countries. 
+
+Check Create_table.sql
+
+reading data from files using python.
+
+To read the psv file we can
+
+use pandas read_csv and by just using "|" separator.
+
+Check Python_script_read.py
