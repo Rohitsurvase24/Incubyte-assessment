@@ -8,7 +8,7 @@ import csv
 
 with open('file.psv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter='|')
-    next(csv_reader, None)  # read once to skip the header once
+    next(csv_reader, None) 
 
     for row in csv_reader:
             print(row)
