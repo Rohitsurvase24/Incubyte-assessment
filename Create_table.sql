@@ -14,3 +14,4 @@ CREATE TABLE table_India (
     Active_Customer CHAR(1) NULL,
     PRIMARY KEY(Customer_Name)
     );
+/*Using same query we can create separate table for each country. */
